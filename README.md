@@ -8,18 +8,19 @@ I am a highly motivated **Computer Systems Engineering graduate** with an **Exce
 
 ### 🚀 Technical Expertise
 
-*   **Data Science:** Professional experience in data cleaning, EDA, and Machine Learning models like **Random Forest** and **GridSearchCV**[cite: 1].
-*   **IoT & Hardware:** Specialized in **PCB design** (EasyEDA) and communication protocols for remote-access IoT platforms[cite: 1].
-*   **Security & Networking:** Skilled in **Network Forensics**, OSINT, VPN configuration (MikroTik), and Windows Server administration[cite: 1].
+*   **Data Science & Analysis:** Hands-on experience in **Data Manipulation, Visualization, and Machine Learning**. Skilled in **EDA**, Feature Engineering, and models like **Random Forest Regressor**.
+*   **IoT & Hardware:** Experienced in **PCB Design (EasyEDA)**, communication protocols, and **Arduino** control code.
+*   **Software Development:** Experienced in **Web Development** (Laravel, PHP, HTML, CSS) and **Desktop Applications** (JavaFX).
+*   **Image Processing:** Skilled in **Digital Signal Processing** and Python-based pipelines for **Medical Image Segmentation**.
 
 ---
 
 ### 📂 Selected Projects
 
-*   **📈 Bike Sharing Demand Prediction:** Achieved an **$R^{2}$ score of 0.99** by implementing a full ML pipeline and automated hyperparameter tuning[cite: 1].
-*   **🌐 EduCloudLab:** Designed the hardware and PCB for a **Remote IoT Experimentation Platform**, presented at the EDU4ICT scientific workshop[cite: 1].
-*   **🔬 Medical Image Segmentation:** Developed a Python pipeline using **Frangi and Laplacian filters** for blood vessel segmentation[cite: 1].
-*   **💻 Sahab Library & Dream House:** Built full-stack applications using **Laravel (PHP)** and **JavaFX** for web and desktop management[cite: 1].
+*   **📈 Bike Sharing Demand Prediction:** Achieved an **$R^{2}$ score of 0.99** by implementing a full ML pipeline and automated hyperparameter tuning.
+*   **🌐 EduCloudLab:** Designed the hardware and PCB for a **Remote IoT Experimentation Platform**, presented at the EDU4ICT scientific workshop.
+*   **🔬 Medical Image Segmentation:** Developed a Python pipeline using **Frangi and Laplacian filters** for blood vessel segmentation.
+*   **💻 Sahab Library & Dream House:** Built full-stack applications using **Laravel (PHP)** and **JavaFX** for web and desktop management.
 
 ---
 
@@ -40,9 +41,9 @@ I am a highly motivated **Computer Systems Engineering graduate** with an **Exce
 ---
 
 ### 🏆 Honors & Awards
-*   **Ranked 1st** in the Computer Engineering cohort at Palestine Technical College (2023 & 2024)[cite: 1].
-*   Recipient of multiple **Academic Excellence Awards** (2020-2025)[cite: 1].
-*   **English Proficiency:** Level B2 (Upper-Intermediate)[cite: 1].
+*   **Ranked 1st** in the Computer Engineering cohort at Palestine Technical College (2023 & 2024).
+*   Recipient of multiple **Academic Excellence Awards** (2020-2025).
+*   **English Proficiency:** Level B2 (Upper-Intermediate).
 
 ---
 
