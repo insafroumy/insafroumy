@@ -31,10 +31,8 @@ I am a highly motivated **Computer Systems Engineering graduate** with an **Exce
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=insafroumy&theme=dracula&area=true&hide_border=true" width="100%" />
-</p
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=insafroumy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=insafroumy&theme=radical" alt="GitHub Streak" />
