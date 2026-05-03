@@ -2,13 +2,13 @@
 
 ### 🥈 Computer Systems Engineer | Data Science & Machine Learning Trainee
 
-I am a highly motivated **Computer Systems Engineering graduate** with an **Excellent academic record (93.67%)**, ranking **2nd in my cohort**. Currently, I am expanding my expertise through an intensive **Data Science and Machine Learning bootcamp** at AXSOS Academy, where I focus on transforming data into actionable insights.
+I am a highly motivated **Computer Systems Engineering graduate** with an **Excellent academic record (93.67%)**, ranking **2nd in my cohort**. Currently, I am expanding my expertise through an intensive **Data Science and Machine Learning bootcamp** at AXSOS Academy, focusing on data-driven solutions and predictive modeling.
 
 ---
 
 ### 🚀 Technical Expertise
 
-*   **Data Science:** Professional experience in data cleaning, EDA, and Machine Learning models like **Random Forest** and **GridSearchCV**.
+*   **Data Science:** Professional experience in data cleaning, EDA, and Machine Learning models like **Random Forest** and **GridSearchCV**[cite: 1].
 *   **IoT & Hardware:** Specialized in **PCB design** (EasyEDA) and communication protocols for remote-access IoT platforms[cite: 1].
 *   **Security & Networking:** Skilled in **Network Forensics**, OSINT, VPN configuration (MikroTik), and Windows Server administration[cite: 1].
 
@@ -24,13 +24,13 @@ I am a highly motivated **Computer Systems Engineering graduate** with an **Exce
 ---
 
 ### 🛠️ Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=python,py,js,html,css,bootstrap,php,laravel,mysql,java,linux,git,vscode,arduino)
+![My Skills](https://skillicons.dev/icons?i=python,js,html,css,bootstrap,php,laravel,mysql,java,linux,git,vscode,arduino)
 
 ---
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insafroumy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=insafroumy&show_icons=true&theme=radical&count_private=true&show=reviews,discussions,prs,merged_prs" alt="GitHub Stats" />
 </p>
 
 <p align="center">
