@@ -30,7 +30,7 @@ I am a highly motivated **Computer Systems Engineering graduate** with an **Exce
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insafroumy&show_icons=true&theme=radical&count_private=true&show=reviews,discussions,prs,merged_prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=insafroumy&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
