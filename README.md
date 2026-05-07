@@ -2,7 +2,7 @@
 
 ### 🥈 Computer Systems Engineer | Data Science & Machine Learning Trainee
 
-I am a highly motivated **Computer Systems Engineering graduate** with an **Excellent academic record (93.67%)**, ranking **2nd in my cohort**. Currently, I am expanding my expertise through an intensive **Data Science and Machine Learning bootcamp** at AXSOS Academy, focusing on data-driven solutions and predictive modeling.
+I am a highly motivated **Computer Systems Engineering graduate**, ranking **2nd in my cohort**. Currently, I am expanding my expertise through an intensive **Data Science and Machine Learning bootcamp** at AXSOS Academy, focusing on data-driven solutions and predictive modeling.
 
 ---
 
@@ -17,7 +17,7 @@ I am a highly motivated **Computer Systems Engineering graduate** with an **Exce
 
 ### 📂 Selected Projects
 
-*   **📈 Bike Sharing Demand Prediction:** Achieved an **$R^{2}$ score of 0.99** by implementing a full ML pipeline and automated hyperparameter tuning.
+*   **📈 Bike Sharing Demand Prediction:** Responsible for the end-to-end data science workflow, implementing a full ML pipeline and automated hyperparameter tuning.
 *   **🌐 EduCloudLab:** Designed the hardware and PCB for a **Remote IoT Experimentation Platform**, presented at the EDU4ICT scientific workshop.
 *   **🔬 Medical Image Segmentation:** Developed a Python pipeline using **Frangi and Laplacian filters** for blood vessel segmentation.
 *   **💻 Sahab Library & Dream House:** Built full-stack applications using **Laravel (PHP)** and **JavaFX** for web and desktop management.
