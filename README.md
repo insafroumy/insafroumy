@@ -83,12 +83,26 @@ Remote-access IoT experimentation platform for educational technology.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=insafroumy&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/insafroumy/insafroumy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/insaf-alrumi-38282a395/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:roumyinsaf119@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Code is most powerful when it solves real problems."</i>
+</p>
