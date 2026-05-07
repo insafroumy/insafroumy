@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=Computer+Systems+Engineer;Learning+Data+Science+%26+ML;IoT+Enthusiast+%26+PCB+Designer;Solving+Real-World+Challenges" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  📍 Gaza, Palestine
-</p>
-
 ---
 
 ## 👩‍💻 About Me
