@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=87CEEB&height=200&section=header&text=Insaf%20Alrumi%20💜%20✨&fontSize=50&animation=fadeIn&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=87CEEB&height=200&section=header&text=Insaf%20Alrumi%20%F0%9F%92%9C%20%E2%9C%A8&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
