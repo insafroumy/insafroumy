@@ -1,11 +1,21 @@
-# <p align="center">Hi there, I'm Insaf Alrumi 👋</p>
+# <p align="center">Insaf Alrumi 💜 ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Computer%20Systems%20Engineer&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=Computer+Systems+Engineer;Learning+Data+Science+%26+ML;IoT+Enthusiast+%26+PCB+Designer;Solving+Real-World+Challenges" alt="Typing SVG" />
 </p>
 
-## 📝 About Me
-[cite_start]I am a highly motivated **Computer Systems Engineering graduate**, ranking **2nd in my cohort** with an **Excellent academic standing**[cite: 4, 10]. [cite_start]Currently, I am a trainee in an intensive **Data Science and Machine Learning bootcamp** at AXSOS Academy[cite: 9]. [cite_start]I am passionate about data-driven solutions, IoT systems, and Computer Vision[cite: 5, 6].
+<p align="center">
+  📍 Gaza, Palestine
+</p>
+
+---
+
+## 👩‍💻 About Me
+* 🎓 **Computer Systems Engineering Graduate**
+* 🥈 **Ranked 2nd** in my cohort with an **Excellent academic standing**
+* 🎯 **Currently learning** Data Science & Machine Learning at **AXSOS Academy**
+* 💡 Passionate about building impactful systems under real-world constraints
+* 🌍 Focused on innovative technology for underserved communities
 
 ---
 
@@ -23,54 +33,59 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-* [cite_start]Experience in **EDA**, Feature Engineering, and Predictive Modeling[cite: 26].
-* [cite_start]Skilled in **Computer Vision** using OpenCV and scikit-image[cite: 19, 35].
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+* Learning **Data Manipulation, Visualization, and Predictive Modeling**
 
 ### ⚙️ IoT & Hardware Tools
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-* [cite_start]Specialized in **PCB Design (EasyEDA)** and communication protocols[cite: 20, 30, 31].
-* [cite_start]Experienced with Arduino IDE, Proteus, and Multisim[cite: 20].
+* Specialized in **PCB Design (EasyEDA)** and communication protocols
+* Experienced with **Proteus, Multisim**, and Arduino IDE
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📈 [Bike Sharing Demand Prediction](https://github.com/insafroumy/Predicting-Bike-sharing-demand)
-* [cite_start]Responsible for the entire end-to-end data science workflow[cite: 27].
-* [cite_start]Conducted deep **Exploratory Data Analysis (EDA)** to analyze environmental impacts on demand[cite: 28].
-* [cite_start]Developed and optimized a high-performance **Random Forest Regressor**[cite: 28].
+End-to-end Machine Learning pipeline for demand forecasting.
+
+**Impact**
+* Conducted deep **EDA** to analyze environmental impacts on demand
+* Implemented **Feature Engineering** to capture seasonal patterns
+* Developed an optimized **Random Forest Regressor**
+
+**Tech:** Python, Pandas, Scikit-learn, GridSearchCV
 
 ### 🌐 [EduCloudLab](https://github.com/insafroumy/EduCloudLab)
-* [cite_start]Designed a custom **PCB using EasyEDA** for a remote IoT experimentation platform[cite: 31].
-* [cite_start]Implemented communication protocols and Arduino control code for multi-user access[cite: 31].
-* [cite_start]Presented the project at the **EDU4ICT scientific workshop**[cite: 32].
+Remote-access IoT experimentation platform for educational technology.
 
-### 🔬 [Blood Vessel Segmentation](https://github.com/insafroumy/Blood-Vessels-Segmentation-DSP)
-* [cite_start]Built a Python-based pipeline to segment blood vessels in medical images[cite: 36].
-* [cite_start]Implemented preprocessing and filtering using **Frangi and Laplacian techniques**[cite: 38].
+**Impact**
+* Designed custom **PCB in EasyEDA** and implemented control code
+* Scaled the system for multi-user access
+* Presented at the **EDU4ICT scientific workshop (2025)**
 
----
-
-## 📊 My GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=insafroumy&theme=radical&area=true&hide_border=true" width="100%" />
-</p>
+**Tech:** Laravel, MySQL, Arduino, EasyEDA
 
 ---
 
 ## 🏆 Honors & Awards
-* [cite_start]**Ranked 1st** in the Computer Engineering cohort (2023 & 2024)[cite: 53].
-* [cite_start]Consistently recognized with **Academic Excellence Awards** (2020-2025)[cite: 54].
-* [cite_start]**English Proficiency:** Level **B2** (Upper-Intermediate)[cite: 56].
+* 🥇 **Ranked 1st** in the Computer Engineering cohort (2023 & 2024)
+* ✨ Consistently recognized with **Academic Excellence Awards** (2020-2025)
+* 🗣️ **English Proficiency:** Level **B2** (Upper-Intermediate)
 
 ---
 
-## 🌐 Let's Connect
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=insafroumy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/insaf-alrumi-38282a395/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:roumyinsaf119@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
