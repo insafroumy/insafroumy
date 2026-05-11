@@ -52,6 +52,15 @@ End-to-end Machine Learning pipeline for demand forecasting.
 
 **Tech:** Python, Pandas, Scikit-learn, GridSearchCV
 
+### 🛒 [Prediction of Product Sales](https://github.com/insafroumy/Prediction-of-Product-Sales)
+End-to-end Data Science capstone project for retail sales prediction.
+ 
+**Impact**
+* Conducted deep **EDA** on 8,523 products to uncover key sales drivers
+* Built and compared **Linear Regression** and tuned **Random Forest** models
+* Delivered **model explainability** insights showing Item MRP and Outlet Type as the dominant sales predictors
+**Tech:** Python, Pandas, Scikit-learn, GridSearchCV, Matplotlib, Seaborn
+
 ### 🌐 [EduCloudLab](https://github.com/insafroumy/EduCloudLab)
 Remote-access IoT experimentation platform for educational technology.
 
