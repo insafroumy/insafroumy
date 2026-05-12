@@ -61,7 +61,7 @@ End-to-end Data Science capstone project for retail sales prediction.
 * Delivered **model explainability** insights showing Item MRP and Outlet Type as the dominant sales predictors
 **Tech:** Python, Pandas, Scikit-learn, GridSearchCV, Matplotlib, Seaborn
 
-### 💰 [Adult Income Prediction](https://github.com/insafroumy/Adult_Income_Prediction)
+### 💰 [Adult Income Prediction](https://github.com/insafroumy/Adult-Income-Prediction)
 End-to-end Machine Learning classification project predicting whether an individual earns over $50K/year.
 
 **Impact**
