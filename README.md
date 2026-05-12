@@ -72,7 +72,7 @@ End-to-end Machine Learning classification project predicting whether an individ
 
 **Tech:** Python, Pandas, Scikit-learn, Imbalanced-learn, GridSearchCV, Matplotlib, Seaborn, Plotly
 
-### 🌐 [EduCloudLab]
+### 🌐 [EduCloudLab](#)
 Remote-access IoT experimentation platform for educational technology.
 
 **Impact**
