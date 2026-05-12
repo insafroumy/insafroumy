@@ -61,6 +61,17 @@ End-to-end Data Science capstone project for retail sales prediction.
 * Delivered **model explainability** insights showing Item MRP and Outlet Type as the dominant sales predictors
 **Tech:** Python, Pandas, Scikit-learn, GridSearchCV, Matplotlib, Seaborn
 
+### 💰 [Adult Income Prediction](https://github.com/insafroumy/Adult_Income_Prediction)
+End-to-end Machine Learning classification project predicting whether an individual earns over $50K/year.
+
+**Impact**
+* Applied **SMOTE** to handle class imbalance and improve minority class detection
+* Tuned **Logistic Regression** with GridSearchCV across L1, L2, and ElasticNet regularization
+* Explored **KMeans Clustering** and **PCA** as feature engineering strategies
+* Applied **embedded feature selection** using Logistic Regression coefficients
+
+**Tech:** Python, Pandas, Scikit-learn, Imbalanced-learn, GridSearchCV, Matplotlib, Seaborn, Plotly
+
 ### 🌐 [EduCloudLab](https://github.com/insafroumy/EduCloudLab)
 Remote-access IoT experimentation platform for educational technology.
 
